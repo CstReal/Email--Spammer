@@ -1,2 +1,10 @@
-# Email--Spammer
-This tool isn`t a email bomber, is a email spammer, i recommend use vpn, because the tool dosen`t have to use proxies(my english is very bad lol)
+# Note
+Enjoy :)
+# Steps 🙏
+🧰``1-Open setup.cmd  to install all packgaes.``
+
+📓``2- Edit config.json, and read "note"``
+
+🤎``3- Open main.py and enjoy!``
+
+![image](https://github.com/user-attachments/assets/4d8314f6-d44b-40b2-bdbe-91e11c2e0943)
